@@ -1,6 +1,6 @@
 <!-- Animated Profile Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=750&color=6C63FF&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Shubham+Dogra" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=750&color=6C63FF&vCenter=true&width=435&lines=Hi+there+I'm+Shubham" alt="Typing SVG" />
 </h1>
 <h3 align="center">
   <img src="https://img.shields.io/badge/B.Tech%20CSE-%236C63FF.svg?style=for-the-badge&logo=graduationcap&logoColor=white"/>
