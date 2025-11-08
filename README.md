@@ -65,8 +65,6 @@
 
 ---
 
-## 🚀 Skills & Tools
-
 ## ✨ Skills & Tools
 
 ### 🧑‍💻 Programming Languages
@@ -80,7 +78,25 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
+### 🧰 Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+### 🏁 Core Abilities
+<p align="center">
+  <img src="https://img.shields.io/badge/Problem%20Solving-6C63FF?style=for-the-badge&logo=codewars&logoColor=white" alt="Problem Solving"/>
+  <img src="https://img.shields.io/badge/Learning%20New%20Tech-E34F26?style=for-the-badge&logo=graphql&logoColor=white" alt="Tech Explorer"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=6C63FF&height=60&section=footer"/>
+</p>
+
 ---
+
 
 ## 🌐 Connect with Me
 
