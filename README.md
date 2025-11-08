@@ -1,4 +1,4 @@
-<!-- 🌟 Animated Profile Header -->
+<!-- Animated Profile Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=750&color=6C63FF&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Shubham+Dogra" alt="Typing SVG" />
 </h1>
