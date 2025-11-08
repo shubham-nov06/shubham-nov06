@@ -111,15 +111,6 @@
     <img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge" alt="Reddit"/>
   </a>
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,linkedin,gmail,reddit&theme=dark" height="40"/>
-</p>
-
-<p align="center" style="font-size:1.1rem;">
-  <b>Let's connect! I'm always open to new opportunities, collaborations, or a friendly tech chat.</b>
-</p>
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=F07B3F&center=true&width=435&lines=Proudly+crafted+by+Shubham+Dogra+%F0%9F%A4%8D" alt="Footer animated"/>
