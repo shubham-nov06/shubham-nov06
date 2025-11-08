@@ -1,76 +1,79 @@
-<!-- 🌟 Profile Header -->
-<h1 align="center">Hi there 👋, I'm <span style="color:#6C63FF;">Shubham Dogra</span></h1>
-<h3 align="center">🎓 B.Tech Computer Science Student | 💻 Developer | 🚀 Tech Explorer</h3>
+<!-- 🌟 Animated Profile Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=750&color=6C63FF&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Shubham+Dogra" alt="Typing SVG" />
+</h1>
+<h3 align="center">
+  <img src="https://img.shields.io/badge/B.Tech%20CSE-%236C63FF.svg?style=for-the-badge&logo=graduationcap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Developer-%23007ACC.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tech%20Explorer-%23E34F26.svg?style=for-the-badge&logo=rocket&logoColor=white"/>
+</h3>
 
 ---
 
-## 💫 About Me:
-🌟 Hey! I’m a *B.Tech Computer Science student* with a strong passion for technology and innovation.  
-💡 I love exploring new frameworks, building projects, and diving deep into real-world problem-solving.  
-⚡ I believe in “learn, build, and repeat” — because growth never stops.
+## 💫 About Me
+
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="40" />  
+  &nbsp;&nbsp;<b>B.Tech Computer Science student passionate about Tech & Innovation</b>&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" width="40" />
+</div>
+
+<ul>
+  <li>💡 I love exploring new frameworks, building projects, and solving real-world problems.</li>
+  <li>⚡ I believe in <b>“learn, build, repeat”</b> — growth never stops!</li>
+</ul>
 
 ---
 
-## 📈 My Tech Stats:
-
-<table>
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-nov06&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="160" />
-    </td>
-    <td>
-      <img align="center" src="https://streak-stats.demolab.com?user=shubham-nov06&theme=tokyonight&hide_border=false" height="160" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-nov06&theme=tokyonight&hide_border=false&layout=compact" height="110" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🏆 GitHub Trophies:
+## 📊 My GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubham-nov06&theme=onedark&no-frame=true&no-bg=true&margin-w=6"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shubham-nov06&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="165" alt="GitHub stats"/>
+  <img src="https://streak-stats.demolab.com?user=shubham-nov06&theme=tokyonight&hide_border=false" height="165" alt="GitHub streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-nov06&theme=tokyonight&hide_border=false&layout=compact" height="110" alt="Top Languages"/>
 </p>
 
 ---
 
-## 💻 Tech Stack:
+## 🏆 Trophies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/MySQL-%2300f291.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shubham-nov06&theme=onedark&no-frame=true&no-bg=true&margin-w=12" alt="Trophy"/>
 </p>
 
 ---
 
-## 🌐 Connect with Me:
+## ✨ Skills & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,python,git,linux,vscode" height="45"/>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=6C63FF&height=60&section=footer"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/ShubhamDogra" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp; 
   <a href="https://reddit.com/user/shubham_9026" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
+    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat-square&logo=reddit&logoColor=white" alt="Reddit"/>
   </a>
+  &nbsp;
   <a href="mailto:contactshubhamhere@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-<!-- Proudly crafted by Shubham Dogra 🤍 -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=F07B3F&center=true&width=435&lines=Proudly+crafted+by+Shubham+Dogra+%F0%9F%A4%8D" alt="Footer animated"/>
+</p>
