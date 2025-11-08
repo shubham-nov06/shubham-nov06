@@ -84,17 +84,21 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/ShubhamDogra" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/ShubhamDogra" target="_blank" title="Connect on LinkedIn">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
   </a>
-  &nbsp; 
-  <a href="https://reddit.com/user/shubham_9026" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat-square&logo=reddit&logoColor=white" alt="Reddit"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://reddit.com/user/shubham_9026" target="_blank" title="Check out my Reddit">
+    <img src="https://img.icons8.com/color/48/000000/reddit.png" width="40" alt="Reddit"/>
   </a>
-  &nbsp;
-  <a href="mailto:contactshubhamhere@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:contactshubhamhere@gmail.com" title="Email Me">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" alt="Email"/>
   </a>
+</p>
+
+<p align="center" style="font-size:1.1rem;">
+  <b>Let's connect! I'm always open to new opportunities, collaborations, or a friendly tech chat.</b>
 </p>
 
 ---
