@@ -1,28 +1,57 @@
-# Hi there, I'm Shubham! 👋
-
-Welcome to my GitHub profile!
-
-## 🚀 About Me
-
-- 🌱 I’m currently learning: _Your current technologies or subjects_
-- 👯 I’m looking to collaborate on: _Interesting open source projects_
-- 💬 Ask me about: _Your areas of expertise_
-- 📫 How to reach me: _Your email or social links_
-- ⚡ Fun fact: _A fun or interesting fact about you!_
-
-## 🛠️ Languages and Tools
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-<!-- Add more languages and tools here -->
-
-## 📈 GitHub Stats
-
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham-nov06&show_icons=true&theme=radical)
+<!-- 🌟 Profile Header -->
+<h1 align="center">Hi there 👋, I'm <span style="color:#6C63FF;">Shubham Dogra</span></h1>
+<h3 align="center">🎓 B.Tech Computer Science Student | 💻 Developer | 🚀 Tech Explorer</h3>
 
 ---
 
-_Thank you for visiting my profile!_
+## 💫 About Me:
+🌟 Hey! I’m a *B.Tech Computer Science student* with a strong passion for technology and innovation.  
+💡 I love exploring new frameworks, building projects, and diving deep into real-world problem-solving.  
+⚡ I believe in “learn, build, and repeat” — because growth never stops.  
+
+---
+
+## 🌐 Connect with Me:
+<p align="center">
+  <a href="https://linkedin.com/in/ShubhamDogra" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://reddit.com/user/shubham_9026" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
+  </a>
+  <a href="mailto:contactshubhamhere@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack:
+<p align="center">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+</p>
+
+---
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubham-nov06&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="170px"/>
+  <img src="https://streak-stats.demolab.com?user=shubham-nov06&theme=tokyonight&hide_border=false" height="170px"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-nov06&theme=tokyonight&hide_border=false&layout=compact" height="150px"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shubham-nov06&theme=onedark&no-frame=true&no-bg=true&margin-w=6"/>
+</p>
+
+---
