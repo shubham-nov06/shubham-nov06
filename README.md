@@ -13,7 +13,7 @@
 ## 💫 About Me
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="40" />  
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="40" />
   &nbsp;&nbsp;<b>B.Tech Computer Science student passionate about Tech & Innovation</b>&nbsp;&nbsp;
   <img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" width="40" />
 </div>
@@ -28,11 +28,15 @@
 ## 📊 My GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham-nov06&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="165" alt="GitHub stats"/>
-  <img src="https://streak-stats.demolab.com?user=shubham-nov06&theme=tokyonight&hide_border=false" height="165" alt="GitHub streak"/>
+  <img alt="Shubham's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shubham-nov06&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0,232526,414345&title_color=6C63FF&icon_color=FFD700&text_color=F8F8FF" height="185"/>
+  &nbsp;
+  <img alt="Shubham's GitHub Streak" src="https://streak-stats.demolab.com?user=shubham-nov06&theme=tokyonight&hide_border=true&ring=6C63FF&fire=FFD700&currStreakNum=FFD700&background=232526" height="185"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-nov06&theme=tokyonight&hide_border=false&layout=compact" height="110" alt="Top Languages"/>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-nov06&theme=tokyonight&hide_border=true&layout=compact&bg_color=0,232526,414345&title_color=F07B3F&text_color=F8F8FF" height="120"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham-nov06&theme=tokyonight" alt="GitHub Profile Summary Card"/>
 </p>
 
 ---
