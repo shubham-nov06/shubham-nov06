@@ -104,9 +104,7 @@
   <a href="mailto:contactshubhamhere@gmail.com" target="_blank" title="Email Me">
     <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/ShubhamDogra" target="_blank" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
-  </a>
+ 
   <a href="https://reddit.com/user/shubham_9026" target="_blank" title="Reddit">
     <img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge" alt="Reddit"/>
   </a>
