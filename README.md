@@ -18,7 +18,7 @@
 
 <p align="center">
   <strong style="font-size:1.3rem;">Hey! I'm <span style="color:#6C63FF;"><b>Shubham Dogra</b></span></strong><br>
-  <sup>B.Tech CSE • Developer • Tech Explorer</sup><br><br>
+  <sup> • Developer • Tech Explorer</sup><br><br>
   🚀 A passionate developer who loves turning ideas into reality.<br>
   💡 Always learning, always building, always leveling up.<br>
   ⚡ <b>“Learn. Build. Repeat.”</b>
