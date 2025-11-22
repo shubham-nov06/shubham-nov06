@@ -37,7 +37,6 @@
   ⚡ <b>“Learn. Build. Repeat.”</b> — Growth never stops!
 </p>
 
----
 
 ## 🏆 Trophies
 
