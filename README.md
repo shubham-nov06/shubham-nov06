@@ -1,15 +1,15 @@
-<!-- Animated Header -->
+<!-- ================= Header ================= -->
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=750&color=6C63FF&vCenter=true&width=700&lines=Hi+there%2C+I'm+Shubham!;Welcome+to+my+GitHub+Profile" 
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=700&color=6C63FF&vCenter=true&width=700&lines=Hi+there%2C+I'm+Shubham!;Welcome+to+My+GitHub+Profile" 
+    alt="Typing Header"
   />
 </h1>
 
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header&text=Welcome!&fontSize=48&fontColor=ffffff" 
-    alt="Welcome Capsule"
+    src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header&text=Let's+Code+&fontSize=48&fontColor=ffffff" 
+    alt="Header Wave"
   />
 </div>
 
@@ -19,15 +19,15 @@
 
 <div align="center">
   <strong style="font-size:1.3rem;">
-    👋 Hey, I'm <span style="color:#6C63FF"><b>Shubham Dogra</b></span>
+    👋 Hey! I'm <span style="color:#6C63FF"><b>Shubham Dogra</b></span>
   </strong>
   <br>
-  <sup>B.Tech CSE | Developer | Tech Explorer</sup>
+  <sup>B.Tech CSE | Developer | Tech Explorer | Problem Solver</sup>
 </div>
 
 <p align="center">
-  🚀 Passionate about tech, development, and building creative solutions. <br>
-  💡 I explore new tech stacks, develop cool projects, and continuously grow. <br>
+  💡 Passionate about building cool projects and exploring new technologies. <br>
+  🚀 I love solving problems, learning continuously, and sharing knowledge. <br>
   ⚡ <b>“Learn ➜ Build ➜ Repeat.”</b>
 </p>
 
@@ -54,7 +54,7 @@
   />
   &nbsp;
   <img 
-    src="https://streak-stats.demolab.com?user=shubham-nov06&theme=tokyonight&hide_border=true&ring=6C63FF&fire=FFD700&currStreakNum=FFD700&background=232526" 
+    src="https://streak-stats.demolab.com?user=shubham-nov06&theme=tokyonight&hide_border=true&ring=6C63FF&fire=FFD700" 
     height="185" 
     alt="GitHub Streak"
   />
@@ -65,13 +65,6 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-nov06&layout=compact&theme=tokyonight&hide_border=true&title_color=F07B3F&text_color=F8F8FF" 
     height="130" 
     alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham-nov06&theme=tokyonight" 
-    alt="Profile Summary"
   />
 </p>
 
@@ -105,6 +98,22 @@
 
 ---
 
+## 🚀 Projects Showcase
+
+<p align="center">
+  <a href="https://github.com/shubham-nov06/Project1" target="_blank">
+    <img src="https://img.shields.io/badge/Project1-Python-blue?style=for-the-badge" alt="Project1"/>
+  </a>
+  <a href="https://github.com/shubham-nov06/Project2" target="_blank">
+    <img src="https://img.shields.io/badge/Project2-JavaScript-yellow?style=for-the-badge" alt="Project2"/>
+  </a>
+  <a href="https://github.com/shubham-nov06/Project3" target="_blank">
+    <img src="https://img.shields.io/badge/Project3-Java-red?style=for-the-badge" alt="Project3"/>
+  </a>
+</p>
+
+---
+
 ## 🌐 Connect with Me
 
 <p align="center">
@@ -121,7 +130,7 @@
 
 ---
 
-<!-- Footer Section -->
+<!-- ================= Footer ================= -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=60&section=footer" alt="Footer Wave"/>
   
