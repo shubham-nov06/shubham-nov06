@@ -1,6 +1,8 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=750&color=6C63FF&vCenter=true&width=480&lines=Hi+there%2C+I'm+Shubham!;Welcome+to+my+GitHub+Profile" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=750&color=6C63FF&vCenter=true&width=700&lines=Hi+there%2C+I'm+Shubham!;Welcome+to+my+GitHub+Profile" 
+  />
 </h1>
 
 <div align="center">
@@ -30,7 +32,9 @@
 ## 🏆 Achievements & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubham-nov06&theme=discord&no-frame=true&title=Stars,Followers,Commit,Repositories,Issues&column=5&margin-w=15" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=shubham-nov06&theme=discord&no-frame=true&no-bg=true&margin-w=15" 
+  />
 </p>
 
 ---
@@ -38,17 +42,28 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham-nov06&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=6C63FF" height="185" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=shubham-nov06&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=6C63FF" 
+    height="185" 
+  />
   &nbsp;
-  <img src="https://streak-stats.demolab.com?user=shubham-nov06&theme=tokyonight&hide_border=true&ring=6C63FF&fire=FFD700" height="185" />
+  <img 
+    src="https://streak-stats.demolab.com?user=shubham-nov06&theme=tokyonight&hide_border=true&ring=6C63FF&fire=FFD700" 
+    height="185" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-nov06&layout=compact&theme=tokyonight&hide_border=true&title_color=F07B3F" height="130" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-nov06&layout=compact&theme=tokyonight&hide_border=true&title_color=F07B3F" 
+    height="130" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham-nov06&theme=tokyonight" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham-nov06&theme=tokyonight" 
+  />
 </p>
 
 ---
@@ -93,6 +108,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=500&color=F07B3F&center=true&width=420&lines=Made+with+passion+by+Shubham+Dogra+💡" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=500&color=F07B3F&center=true&width=420&lines=Made+with+passion+by+Shubham+Dogra+💡" 
+  />
 </p>
-
