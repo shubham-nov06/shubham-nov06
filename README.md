@@ -1,45 +1,43 @@
-<!-- ================= Header ================= -->
+<!-- ================= Hero Section ================= -->
 <h1 align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=700&color=6C63FF&vCenter=true&width=700&lines=Hi+there%2C+I'm+Shubham!;Welcome+to+My+GitHub+Profile" 
-    alt="Typing Header"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=500&color=6C63FF&vCenter=true&width=700&lines=Hey!+I'm+Shubham;Welcome+to+My+Tech+World" alt="Typing Header"/>
 </h1>
 
 <div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header&text=Let's+Code+&fontSize=48&fontColor=ffffff" 
-    alt="Header Wave"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=6C63FF&height=120&section=header&text=Explore+Code+&fontSize=48&fontColor=ffffff" alt="Header Capsule"/>
 </div>
 
 ---
 
-## ✨ About Me
+## 🌟 About Me
 
-<div align="center">
-  <strong style="font-size:1.3rem;">
-    👋 Hey! I'm <span style="color:#6C63FF"><b>Shubham Dogra</b></span>
-  </strong>
-  <br>
-  <sup>B.Tech CSE | Developer | Tech Explorer | Problem Solver</sup>
-</div>
-
-<p align="center">
-  💡 Passionate about building cool projects and exploring new technologies. <br>
-  🚀 I love solving problems, learning continuously, and sharing knowledge. <br>
-  ⚡ <b>“Learn ➜ Build ➜ Repeat.”</b>
-</p>
+- 👨‍💻 B.Tech CSE | Developer & Tech Explorer  
+- 💡 Passionate about building creative projects & learning new tech  
+- 🚀 I love solving problems & sharing knowledge with the community  
+- ⚡ Motto: **“Learn. Build. Share. Repeat.”**
 
 ---
 
-## 🏆 Achievements & Trophies
+## 🛠️ Skills
+
+| Languages | Tools & Platforms | Core Strengths |
+|-----------|-----------------|----------------|
+| C, C++, Java, Python, JavaScript, HTML, CSS | Git, GitHub, VS Code, Linux | Problem Solving, Tech Exploration, Quick Learner |
+
+---
+
+## 🔥 Projects
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=shubham-nov06&theme=discord&no-frame=true&no-bg=true&margin-w=15" 
-    alt="GitHub Trophies"
-  />
+  <a href="https://github.com/shubham-nov06/Project1" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Python-blue?style=for-the-badge" alt="Project1"/>
+  </a>
+  <a href="https://github.com/shubham-nov06/Project2" target="_blank">
+    <img src="https://img.shields.io/badge/Calculator-JavaScript-yellow?style=for-the-badge" alt="Project2"/>
+  </a>
+  <a href="https://github.com/shubham-nov06/Project3" target="_blank">
+    <img src="https://img.shields.io/badge/ChatBot-Java-red?style=for-the-badge" alt="Project3"/>
+  </a>
 </p>
 
 ---
@@ -47,69 +45,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=shubham-nov06&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=6C63FF&icon_color=FFD700&text_color=F8F8FF" 
-    height="185" 
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubham-nov06&show_icons=true&count_private=true&hide_border=true&theme=radical&title_color=6C63FF" height="180"/>
   &nbsp;
-  <img 
-    src="https://streak-stats.demolab.com?user=shubham-nov06&theme=tokyonight&hide_border=true&ring=6C63FF&fire=FFD700" 
-    height="185" 
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=shubham-nov06&theme=radical&hide_border=true&ring=6C63FF&fire=FFD700" height="180"/>
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-nov06&layout=compact&theme=tokyonight&hide_border=true&title_color=F07B3F&text_color=F8F8FF" 
-    height="130" 
-    alt="Top Languages"
-  />
-</p>
-
----
-
-## 💻 Skills & Tools
-
-### 🧑‍💻 Programming Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-### 🧰 Tools & Platforms
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
-
-### 🏁 Core Strengths
-<p align="center">
-  <img src="https://img.shields.io/badge/Problem%20Solving-6C63FF?style=for-the-badge&logo=codewars&logoColor=white" alt="Problem Solving"/>
-  <img src="https://img.shields.io/badge/Tech%20Explorer-E34F26?style=for-the-badge&logo=graphql&logoColor=white" alt="Tech Explorer"/>
-</p>
-
----
-
-## 🚀 Projects Showcase
-
-<p align="center">
-  <a href="https://github.com/shubham-nov06/Project1" target="_blank">
-    <img src="https://img.shields.io/badge/Project1-Python-blue?style=for-the-badge" alt="Project1"/>
-  </a>
-  <a href="https://github.com/shubham-nov06/Project2" target="_blank">
-    <img src="https://img.shields.io/badge/Project2-JavaScript-yellow?style=for-the-badge" alt="Project2"/>
-  </a>
-  <a href="https://github.com/shubham-nov06/Project3" target="_blank">
-    <img src="https://img.shields.io/badge/Project3-Java-red?style=for-the-badge" alt="Project3"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-nov06&layout=compact&theme=radical&hide_border=true&title_color=F07B3F&text_color=FFFFFF" height="130"/>
 </p>
 
 ---
@@ -118,13 +60,13 @@
 
 <p align="center">
   <a href="mailto:contactshubhamhere@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://reddit.com/user/shubham_9026" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge" alt="Reddit"/>
+  <a href="https://www.linkedin.com/in/shubham-dogra/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="https://github.com/shubham-nov06" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
 
@@ -132,26 +74,11 @@
 
 <!-- ================= Footer ================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=60&section=footer" alt="Footer Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=6C63FF&height=60&section=footer" alt="Footer Wave"/>
   
   <h3>
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=500&color=F07B3F&center=true&width=480&lines=Made+with+💡+by+Shubham+Dogra;Keep+Exploring+and+Coding!" 
-      alt="Typing Footer"
-    />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=500&color=F07B3F&center=true&width=480&lines=Crafted+with+❤️+by+Shubham;Keep+Coding+and+Exploring!" alt="Typing Footer"/>
   </h3>
   
-  <p>
-    <a href="mailto:contactshubhamhere@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
-    </a>
-    <a href="https://reddit.com/user/shubham_9026" target="_blank">
-      <img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge" alt="Reddit"/>
-    </a>
-    <a href="https://github.com/shubham-nov06" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
-    </a>
-  </p>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=60&section=footer" alt="Footer Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=6C63FF&height=60&section=footer" alt="Footer Wave"/>
 </div>
