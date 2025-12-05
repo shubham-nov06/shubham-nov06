@@ -1,4 +1,6 @@
-
+<!-- ========================================================= -->
+<!--     🔥 STUNNING, MODERN & HIGHLY OPTIMIZED README        -->
+<!-- ========================================================= -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=700&color=6C63FF&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Shubham+Dogra!;Welcome+to+My+GitHub+Universe+🚀" alt="Typing Intro"/>
