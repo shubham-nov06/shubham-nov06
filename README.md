@@ -1,6 +1,6 @@
 <!-- Animated Profile Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=750&color=6C63FF&vCenter=true&width=435&lines=Hi+there%2C+I'm+Shubham!;Hey+there%2C+I'm+Shubham+Dogra+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=750&color=6C63FF&vCenter=true&width=435&lines=Hi+there%2C+I'm+Shubham!;Hey+there%2C+I'm+Shubham+Dogra+👋" alt="Typing SVG" />
 </h1>
 
 <div align="center">
