@@ -1,4 +1,4 @@
-a<!-- Header -->
+<!-- Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=600&color=6C63FF&center=true&vCenter=true&width=800&lines=Hey+I'm+Shubham+Dogra!;Coder+%7C+Developer+%7C+Tech+Explorer;Welcome+to+my+GitHub+Profile" />
 </h1>
