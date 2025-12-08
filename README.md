@@ -1,36 +1,21 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=700&color=6C63FF&vCenter=true&width=640&lines=Hi+there%2C+I'm+Shubham+Dogra!;Developer+%7C+Tech+Explorer+%7C+Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=700&color=6C63FF&vCenter=true&width=650&lines=Hi+there%2C+I'm+Shubham+Dogra!;Developer+%7C+Tech+Explorer+%7C+Problem+Solver" />
 </h1>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=130&section=header&text=Welcome+to+my+GitHub!&fontSize=40&fontColor=fff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=130&section=header&fontColor=fff"/>
 </div>
 
 ---
 
 ## 👨‍💻 About Me
-I'm **Shubham**, a developer who loves building things, exploring new tech, and improving every day.
+I'm **Shubham**, a curious developer who loves building, exploring tech, and leveling up every day.
 
-- 🎓 **B.Tech CSE**
-- 🌱 Learning **Web Dev · System Design · Backend Patterns**
-- 💻 I enjoy **DSA, projects, and open-source**
-- 📬 **Email:** contactshubhamhere@gmail.com
-
----
-
-## 🏆 GitHub Highlights
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubham-nov06&theme=radical&no-frame=true&margin-w=10"/>
-</div>
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham-nov06&show_icons=true&hide_border=true&theme=tokyonight&title_color=6C63FF" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-nov06&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
-</div>
+- 🎓 **B.Tech in CSE**
+- 💡 Interested in **Web Dev · System Design · Automation**
+- 🚀 Always improving skills through projects & DSA  
+- 📬 **Email:** contactshubhamhere@gmail.com  
 
 ---
 
@@ -57,28 +42,29 @@ I'm **Shubham**, a developer who loves building things, exploring new tech, and 
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 Cool GitHub Widgets (Working)
 
-### 🔹 Algo Solutions  
-Efficient solutions to CP and DSA problems.  
-➡️ Repo: **https://github.com/shubham-nov06/algo-solutions**
-
-### 🔹 Automation Scripts  
-Small tools, scripts & utilities.  
-➡️ Repo: **https://github.com/shubham-nov06/small-tool**
-
----
-
-## 🎯 Learning Goals
-- Improve backend development & clean architecture  
-- Build production-ready apps  
-- Continue leveling up DSA + open-source
-
----
-
-## 🧡 Made With
+### 📈 Contribution Graph
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=F07B3F&center=true&width=520&lines=Made+with+%F0%9F%92%BB+and+%F0%9F%A4%96"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham-nov06&theme=react-dark&hide_border=true&area=true" />
+</div>
+
+---
+
+## 🐍 Snake Eating Your Contributions
+<div align="center">
+  <img src="https://github.com/shubham-nov06/shubham-nov06/blob/output/github-contribution-grid-snake.svg" />
+</div>
+
+> ❗ **NOTE:**  
+For the snake animation to work, you MUST add the GitHub workflow file.  
+If you want, I can generate it for you — just say **“snake file bro”**.
+
+---
+
+## 🧡 Made With  
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=700&color=F07B3F&center=true&vCenter=true&width=450&lines=Made+with+❤️+and+💻;By+Shubham+Dogra" />
 </div>
 
 <div align="center">
