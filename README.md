@@ -1,69 +1,81 @@
-<!-- ================= SHUBHAM DOGRA ================= -->
+<!-- ================== HEADER ================== -->
 
-<h1 align="center">Hi 👋, I'm Shubham Dogra</h1>
-<h3 align="center">B.Tech CSE (2nd Year) | DSA Learner | Aspiring Software Engineer</h3>
+<h1 align="center">Hi 👋, I'm Shubham</h1>
+<h3 align="center">B.Tech CSE Student | 2nd Year | Learning & Building 🚀</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=Passionate+About+Coding;Learning+Full+Stack+Development;Exploring+DSA+%26+Problem+Solving;Building+Projects+Step+by+Step" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 2nd Year Computer Science Student  
-- 📚 Practicing Data Structures & Algorithms  
-- 💻 Comfortable with C, C++, Java, Python  
-- 🌐 Learning HTML, CSS & JavaScript  
-- 🚀 Building projects to strengthen fundamentals  
-
-Focused on consistency, clean coding, and real understanding.
+- 🎓 B.Tech in Computer Science (2nd Year)
+- 💻 Currently learning **DSA + Web Development**
+- 🚀 Exploring Real-World Projects
+- 📚 Improving Problem Solving Skills
+- 🔥 Goal: Become Industry Ready Developer
 
 ---
 
 ## 🛠 Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github,vscode&perline=8" />
 </p>
 
 ---
 
-## 📊 GitHub Activity Insights
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham-nov06&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubham-nov06&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=shubham-nov06&theme=tokyonight&hide_border=true" height="165"/>
 </p>
+
+---
+
+## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-nov06&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-nov06&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📉 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham-nov06&theme=github_dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham-nov06&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 Portfolio
+## 🏆 GitHub Trophies
 
-🔗 https://your-portfolio-link.com  
-
----
-
-## 📫 Connect
-
-- LinkedIn: https://linkedin.com/in/YOUR-LINK  
-- Email: YOURMAIL@gmail.com  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shubham-nov06&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-⭐ Improving 1% every day.
+## 🌐 Portfolio
+
+🚀 Coming Soon – Building Something Amazing!
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/shubham-nov06">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Keep Learning • Keep Building • Keep Growing ⭐
+</p>
