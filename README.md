@@ -1,52 +1,74 @@
-<!-- HEADER WITH ANIMATION -->
-<h1 align="center">Hi 👋, I'm Shubham Dogra</h1>
-<h3 align="center">2nd Year B.Tech CSE | Passionate Developer | Tech Enthusiast 🚀</h3>
+<!-- ===== HEADER ===== -->
+<h1 align="center">Shubham Dogra</h1>
+<h3 align="center">B.Tech CSE Student | Aspiring Software Developer | Open Source Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0C9DD8&center=true&vCenter=true&width=800&lines=Learning+...+Building+...+Sharing+My+Journey!" alt="Typing Animation">
+  <a href="https://github.com/shubham-nov06">
+    <img src="https://komarev.com/ghpvc/?username=shubham-nov06&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 👨‍💻 About Me
+
+- 🎓 2nd Year B.Tech in Computer Science  
+- 💡 Passionate about Software Development & Problem Solving  
+- 🌱 Currently learning **Full Stack Development & DSA**
+- 🚀 Exploring Open Source Contributions  
+- 📫 Reach me at: **your-email@example.com**
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=shubham-nov06&show_icons=true&theme=dark&count_private=true"/>
-  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-nov06&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=shubham-nov06&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-nov06&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-nov06&layout=compact&theme=dark" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-nov06&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
-## 💻 About Me
+## 📌 Featured Projects
 
-- 🔭 I’m currently working on improving my problem-solving and full-stack skills  
-- 🌱 I’m learning **React, Node.js, and Open Source Contribution**  
-- 💡 I love exploring new tech and building real-world projects  
-- 📫 Connect with me: **LinkedIn / Email below**
+- 🔹 Add your best project here  
+- 🔹 Add short 1-line description  
+- 🔹 Keep it clean and professional  
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🤝 Connect With Me
 
-<p>
-  <img src="https://img.shields.io/badge/C-blue?logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-orange?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+<p align="center">
+  <a href="https://linkedin.com/in/your-link">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 📫 Connect with Me
-
 <p align="center">
-  <a href="https://linkedin.com/in/shubham-dogra-12a604362"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
+  <i>"Consistency beats motivation."</i>
 </p>
