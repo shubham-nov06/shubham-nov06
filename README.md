@@ -17,7 +17,7 @@
 - 🚀 Building projects to improve real-world skills  
 - 📚 Practicing problem solving daily  
 - 🎯 Focused on growth & consistency  
-I believe in consistency, clean code, and continuous improvement.
+# I believe in consistency, clean code, and continuous improvement.
 
 ---
 
