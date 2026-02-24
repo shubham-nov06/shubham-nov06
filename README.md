@@ -36,20 +36,7 @@ I believe in consistency, clean code, and continuous improvement.
 </p>
 
 ---
----
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shubham-nov06&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-nov06&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-nov06&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
 
 ---
 
@@ -84,6 +71,7 @@ I believe in consistency, clean code, and continuous improvement.
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=black"/>
   </a>
 </p>
+https://shubhamofficialportfolio.netlify.app/
 
 
 
