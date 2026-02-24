@@ -68,10 +68,9 @@ I believe in consistency, clean code, and continuous improvement.
 
 <p align="center">
   <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=black"/>
+    <img src="https://shubhamofficialportfolio.netlify.app/"/>
   </a>
 </p>
-https://shubhamofficialportfolio.netlify.app/
 
 
 
