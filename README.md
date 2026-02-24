@@ -60,7 +60,7 @@
 ## 🚀 Featured Work
 
 <p align="center">
-  <a href="https://shubhamofficialportfolio.netlify.app/" target="_blank">
+  <a href="https://shubhamportfolio-six.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
