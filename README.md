@@ -55,19 +55,13 @@
 
 ---
 
-## 🏆 GitHub Highlights
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/shubham-nov06?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/shubham-nov06?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/commit-activity/m/shubham-nov06/shubham-nov06?style=for-the-badge" />
-</p>
 
 ## 🚀 Featured Work
 
 <p align="center">
-  <a href="https://your-portfolio-link.com">
-    <img src="https://shubhamofficialportfolio.netlify.app/"/>
+  <a href="https://shubhamofficialportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
