@@ -63,7 +63,6 @@
     alt="GitHub Trophies"
   />
 </p>
----
 
 ## 🚀 Featured Work
 
