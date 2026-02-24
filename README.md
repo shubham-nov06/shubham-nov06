@@ -55,13 +55,12 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Highlights
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=shubham-nov06&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" 
-    alt="GitHub Trophies"
-  />
+  <img src="https://img.shields.io/github/followers/shubham-nov06?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/shubham-nov06?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/commit-activity/m/shubham-nov06/shubham-nov06?style=for-the-badge" />
 </p>
 
 ## 🚀 Featured Work
