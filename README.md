@@ -1,8 +1,12 @@
-<!-- ================= HEADER ================= -->
+<!-- ====================== SHUBHAM DOGRA PROFILE ====================== -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Shubham;B.Tech+CSE+Student+|+2nd+Year;Learning+DSA+%26+Web+Development;Building+Projects+Step+by+Step" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Hi,+I'm+Shubham+Dogra;2nd+Year+Computer+Science+Student;DSA+Learner+%7C+Web+Development+Explorer;Aspiring+Software+Engineer" />
 </h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1E90FF&height=120&section=header"/>
+</p>
 
 ---
 
@@ -13,6 +17,7 @@
 - 🚀 Building projects to improve real-world skills  
 - 📚 Practicing problem solving daily  
 - 🎯 Focused on growth & consistency  
+I believe in consistency, clean code, and continuous improvement.
 
 ---
 
@@ -33,15 +38,18 @@
 ---
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham-nov06&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shubham-nov06&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-nov06&theme=github-dark-blue&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-nov06&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-nov06&layout=compact&theme=github_dark&hide_border=true" />
 </p>
+
+---
 
 ---
 
@@ -93,7 +101,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:0A66C2&height=120&section=footer"/>
 </p>
 
-<!-- ===================== END ===================== -->
+<!-- ====================== END ====================== -->
