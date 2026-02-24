@@ -1,22 +1,81 @@
-<h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- ====================== SHUBHAM DOGRA PROFILE ====================== -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham2006-nov&label=Profile%20views&color=0e75b6&style=flat" alt="shubham2006-nov" /> </p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Hi,+I'm+Shubham+Dogra;2nd+Year+Computer+Science+Student;DSA+Learner+%7C+Web+Development+Explorer;Aspiring+Software+Engineer" />
+</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham2006-nov" alt="shubham2006-nov" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-dogra-12a604362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-dogra-12a604362" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1E90FF&height=120&section=header"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham2006-nov&show_icons=true&locale=en&layout=compact" alt="shubham2006-nov" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham2006-nov&show_icons=true&locale=en" alt="shubham2006-nov" /></p>
+I am a second-year B.Tech Computer Science student focused on building strong foundations in programming and problem-solving.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham2006-nov&" alt="shubham2006-nov" /></p>
+- 📚 Actively practicing Data Structures & Algorithms  
+- 💻 Strengthening core programming concepts  
+- 🌐 Learning Web Development step by step  
+- 🚀 Building projects to improve practical skills  
+
+I believe in consistency, clean code, and continuous improvement.
+
+---
+
+## 🛠 Technical Skills
+
+### Languages  
+C • C++ • Java • Python • JavaScript  
+
+### Web  
+HTML • CSS  
+
+### Tools  
+Git • GitHub • VS Code  
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shubham-nov06&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-nov06&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-nov06&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Work
+
+<p align="center">
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
+(Replace with your actual portfolio link)
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOURMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:0A66C2&height=120&section=footer"/>
+</p>
+
+<!-- ====================== END ====================== -->
