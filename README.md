@@ -38,10 +38,6 @@
 </p>
 
 ---
----
-
-
----
 
 ## 🔥 Contribution Streak
 
