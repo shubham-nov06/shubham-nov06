@@ -68,7 +68,7 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
-## 🔥 Contribution Streak
+### 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shubham-nov06&theme=tokyonight&hide_border=true" />
