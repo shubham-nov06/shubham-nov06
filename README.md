@@ -69,6 +69,8 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
 ---
+
+---
 ### 🔥 Contribution Streak
 
 <p align="center">
