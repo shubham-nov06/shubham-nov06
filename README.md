@@ -23,8 +23,6 @@
 
 
 
-## 🛠 Skills & Tools
-
 ## 🛠 Tech Stack
 
 ### 💻 Programming Languages
@@ -58,6 +56,9 @@
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea"/>
 </p>
 
 ---
@@ -67,7 +68,6 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
-
 ## 🔥 Contribution Streak
 
 <p align="center">
