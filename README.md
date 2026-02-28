@@ -1,86 +1,72 @@
 <!-- ====================== SHUBHAM DOGRA PROFILE ====================== -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=38&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Shubham+Dogra;Computer+Science+Student;DSA+%7C+Web+Development;Building+Future+Ready+Skills+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=40&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=950&lines=Shubham+Dogra;Computer+Science+Student;I+Build+Things+With+Code;Always+Learning+⚡" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:2563EB&height=170&section=header&animation=fadeIn"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubham-nov06&label=Profile+Views&color=0A66C2&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/shubham-nov06?style=for-the-badge&color=2563EB"/>
-  <img src="https://img.shields.io/github/stars/shubham-nov06?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=0A66C2"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:2563EB,100:0A66C2&height=180&section=header&animation=fadeIn"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Who Am I?
 
-<img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-- 🎓 B.Tech CSE (2nd Year)  
-- 💻 Focused on DSA & Web Development  
-- 🚀 Building real-world projects  
-- 🧠 Writing clean, optimized code  
-
-<br/>
+```js
+const shubham = {
+  education: "B.Tech CSE (2nd Year)",
+  focus: ["Data Structures", "Web Development"],
+  currentStatus: "Building & Improving Daily",
+  mindset: "Clean Code. Strong Logic. No Excuses."
+};
+```
 
 ---
 
-## 🛠 Tech Stack
+## 🧰 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,git,github,vscode,idea,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,git,github,vscode,idea,vercel,netlify&perline=7" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 Developer Insights
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shubham-nov06&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-nov06&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shubham-nov06&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-nov06&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Contribution Snake (Animated)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shubham-nov06&theme=tokyonight&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 Achievement Board
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham-nov06&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shubham-nov06&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🌐 Portfolio
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubham-nov06&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
-</p>
-
----
-
-## 🚀 Portfolio
-
-<p align="center">
-  <a href="https://shubhamportfolio-six.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <a href="https://shubhamportfolio-six.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-REAL-LINK">
@@ -94,7 +80,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0A66C2&height=170&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0A66C2,100:2563EB&height=180&section=footer"/>
 </p>
 
 <!-- ====================== END ====================== -->
