@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF00FF,50:00FFFF,100:00FFAA&height=280&section=header&text=Shubham%20Dogra&fontSize=60&fontColor=ffffff&animation=twinkling" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF00FF,50:00FFFF,50:00FFAA&height=20&section=header&text=Shubham%20Dogra&fontSize=60&fontColor=ffffff&animation=twinkling" alt="Header Banner" />
 </div>
 
 <br>
