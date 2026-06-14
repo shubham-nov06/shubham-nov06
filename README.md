@@ -1,18 +1,16 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF00FF,50:00FFFF,100:FF1493&height=280&section=header&text=Shubham%20Dogra&fontSize=60&fontColor=ffffff&animation=twinkling" alt="Header" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF00FF,50:00FFFF,100:00FFAA&height=260&section=header&text=Shubham%20Dogra&fontSize=55&fontColor=ffffff&animation=twinkling" alt="Header Banner" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=00FFEA&center=true&vCenter=true&width=650&lines=Hey%20there!%20I'm%20Shubham%20Dogra%20🚀;Passionate%20Coder%20%7C%20Problem%20Solver;Building%20the%20future%20one%20line%20at%20a%20time;Open%20for%20collabs%20and%20opportunities!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=1000&color=00FFEA&center=true&vCenter=true&width=720&lines=Hey+there!+I'm+Shubham+Dogra+👋;Passionate+Coder+%26+Problem+Solver;Building+cool+stuff+with+code;Open+to+collaborations+🚀" alt="Typing SVG" />
 </div>
 
 <br>
 
 # 👨‍💻 Shubham Dogra | **shubham-nov06**
 
-**"Code. Create. Conquer."**
+**"Code. Create. Conquer."** ✨
 
 [![GitHub Followers](https://img.shields.io/github/followers/shubham-nov06?style=for-the-badge&color=00FFEA&logo=github)](https://github.com/shubham-nov06)
 [![Profile Views](https://komarev.com/ghpvc/?username=shubham-nov06&color=00FFEA&style=for-the-badge)](https://github.com/shubham-nov06)
@@ -20,13 +18,13 @@
 
 ---
 
-### ✨ **About Me** (The Spark)
+### ✨ **About Me** 
 
-Hey! I'm a **curious coder** on a mission to turn caffeine into clean, efficient code. Currently mastering **C++**, **Python**, **Web Dev**, and crushing **Data Structures & Algorithms**.
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="180" alt="Coding Animation" />
+</div>
 
-- 🔭 **Currently building**: Cool clones, OOP masterpieces & real-world apps
-- 🌱 **Learning**: Full-stack magic & advanced problem-solving
-- 💡 **Fun Fact**: I believe every bug is just an undocumented feature waiting to shine!
+Hey! I'm a **curious coder** fueled by coffee ☕, turning ideas into working software. Mastering **C++**, **Python**, Web Dev, and DSA. Love solving problems and building things that matter.
 
 ---
 
@@ -36,11 +34,9 @@ Hey! I'm a **curious coder** on a mission to turn caffeine into clean, efficient
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**More coming soon...** ⚡
 
 </div>
 
@@ -52,7 +48,7 @@ Hey! I'm a **curious coder** on a mission to turn caffeine into clean, efficient
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=shubham-nov06&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=00FFEA&icon_color=FF00FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-nov06&layout=compact&theme=radical&hide_border=true&title_color=00FFEA)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-nov06&layout=compact&theme=radical&hide_border=true)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubham-nov06&theme=radical&hide_border=true&stroke=00FFEA)
 
@@ -60,26 +56,30 @@ Hey! I'm a **curious coder** on a mission to turn caffeine into clean, efficient
 
 ---
 
-### 🏆 **Trophies & Achievements**
+### 🏆 **Achievements**
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=shubham-nov06&theme=radical&no-frame=true&column=4&margin-w=15&title_color=00FFEA)
+![Trophies](https://github-profile-trophy.vercel.app/?username=shubham-nov06&theme=radical&no-frame=true&column=4&margin-w=15)
 
 </div>
 
 ---
 
-### 🔥 **Featured Creations**
+### 🔥 **Featured Projects** (My Best Works)
 
-| Project                  | What It Does                          | Stack          | Link |
-|--------------------------|---------------------------------------|----------------|------|
-| **Amazon Clone**        | Slick e-commerce frontend             | HTML, CSS     | [→ Repo](https://github.com/shubham-nov06/Amazon-Clone-Project) |
-| **College Website**     | Multi-page modern college site        | HTML, CSS     | [→ Repo](https://github.com/shubham-nov06/COLLEGE-WEBSITE-PROJECT) |
-| **OOPS in C++**         | Deep dive into Object-Oriented magic  | C++           | [→ Repo](https://github.com/shubham-nov06/OOPS-C-Plus-Plus) |
-| **Expense Tracker**     | Track your spends like a pro          | Python        | [→ Repo](https://github.com/shubham-nov06/Expense-Tracker) |
+<div align="center">
 
-**[Explore All Projects →](https://github.com/shubham-nov06?tab=repositories)**
+| Project | Description | Tech | Link |
+|---------|-------------|------|------|
+| **Amazon Clone** | Beautiful responsive e-commerce frontend | HTML, CSS | [→ View](https://github.com/shubham-nov06/Amazon-Clone-Project) |
+| **College Website** | Modern multi-page college site | HTML, CSS | [→ View](https://github.com/shubham-nov06/COLLEGE-WEBSITE-PROJECT) |
+| **OOPS in C++** | Complete Object-Oriented Programming demos | C++ | [→ View](https://github.com/shubham-nov06/OOPS-C-Plus-Plus) |
+| **Expense Tracker** | Clean expense manager app | Python | [→ View](https://github.com/shubham-nov06/Expense-Tracker) |
+
+**[See All Projects →](https://github.com/shubham-nov06?tab=repositories)**
+
+</div>
 
 ---
 
@@ -93,7 +93,7 @@ Hey! I'm a **curious coder** on a mission to turn caffeine into clean, efficient
 
 ---
 
-### 🌐 **Let's Connect & Build Together!**
+### 🌐 **Let's Connect!**
 
 <div align="center">
 
@@ -104,7 +104,7 @@ Hey! I'm a **curious coder** on a mission to turn caffeine into clean, efficient
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF00FF,50:00FFFF,100:FF1493&height=120&section=footer&text=Thanks%20for%20stopping%20by!%20%E2%9C%A8&fontSize=22&fontColor=ffffff" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF00FF,50:00FFFF,100:00FFAA&height=110&section=footer&text=Thanks%20for%20visiting!%20Keep%20coding%20%E2%9C%A8&fontSize=20&fontColor=ffffff" alt="Footer" />
 </div>
 
-**Made with ❤️, endless ☕, and pure passion | Keep shipping awesome code!** 🚀
+**Made with ❤️ & endless passion | Let's build something awesome together!** 🚀
