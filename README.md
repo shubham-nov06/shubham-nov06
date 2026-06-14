@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF00FF,50:00FFFF,100:00FFAA&height=260&section=header&text=Shubham%20Dogra&fontSize=55&fontColor=ffffff&animation=twinkling" alt="Header Banner" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=1000&color=00FFEA&center=true&vCenter=true&width=720&lines=Hey+there!+I'm+Shubham+Dogra+👋;Passionate+Coder+%26+Problem+Solver;Building+cool+stuff+with+code;Open+to+collaborations+🚀" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF00FF,50:00FFFF,100:00FFAA&height=280&section=header&text=Shubham%20Dogra&fontSize=60&fontColor=ffffff&animation=twinkling" alt="Header Banner" />
 </div>
 
 <br>
@@ -21,10 +17,12 @@
 ### ✨ **About Me** 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="180" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="220" alt="Coding Animation" />
+  <br><br>
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="180" alt="Developer Vibes" />
 </div>
 
-Hey! I'm a **curious coder** fueled by coffee ☕, turning ideas into working software. Mastering **C++**, **Python**, Web Dev, and DSA. Love solving problems and building things that matter.
+Hey! I'm a **curious coder** fueled by coffee ☕, turning ideas into real software. Mastering **C++**, **Python**, Web Development, and DSA. I love solving tricky problems and shipping cool projects.
 
 ---
 
@@ -37,6 +35,8 @@ Hey! I'm a **curious coder** fueled by coffee ☕, turning ideas into working so
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**More coming soon...** ⚡
 
 </div>
 
@@ -53,8 +53,6 @@ Hey! I'm a **curious coder** fueled by coffee ☕, turning ideas into working so
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubham-nov06&theme=radical&hide_border=true&stroke=00FFEA)
 
 </div>
-
----
 
 ---
 
@@ -96,7 +94,7 @@ Hey! I'm a **curious coder** fueled by coffee ☕, turning ideas into working so
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF00FF,50:00FFFF,100:00FFAA&height=110&section=footer&text=Thanks%20for%20visiting!%20Keep%20coding%20%E2%9C%A8&fontSize=20&fontColor=ffffff" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF00FF,50:00FFFF,100:00FFAA&height=120&section=footer&text=Thanks%20for%20visiting!%20Keep%20coding%20%E2%9C%A8&fontSize=22&fontColor=ffffff" alt="Footer" />
 </div>
 
 **Made with ❤️ & endless passion | Let's build something awesome together!** 🚀
