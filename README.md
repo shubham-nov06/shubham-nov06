@@ -56,14 +56,6 @@ Hey! I'm a **curious coder** fueled by coffee ☕, turning ideas into working so
 
 ---
 
-### 🏆 **Achievements**
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=shubham-nov06&theme=radical&no-frame=true&column=4&margin-w=15)
-
-</div>
-
 ---
 
 ### 🔥 **Featured Projects** (My Best Works)
