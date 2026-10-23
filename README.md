@@ -1,49 +1,100 @@
-# Hi, I'm Shubham 👋
+# shubham
 
-B.Tech Computer Science student focused on **Data Science & Machine Learning**. I build AI-powered web apps and like keeping things simple, portable and professional-looking.
+> turning data into decisions, and ideas into things people can actually use.
 
-![Profile views](https://komarev.com/ghpvc/?username=shubham-nov06&label=Profile%20views&color=36BCF7&style=flat-square)
+student · builder · data science / ml / ai web apps  
+→ [github.com/shubham-nov06](https://github.com/shubham-nov06)
 
-## About
+![Profile views](https://komarev.com/ghpvc/?username=shubham-nov06&label=profile%20views&color=0d1117&style=flat-square)
 
-- 🎓 B.Tech in Computer Science
-- 🔭 Learning Data Science & Machine Learning
-- 🛠️ Building AI-powered web apps and ML experiments
-- 🚢 Deploying on Vercel & Netlify
+---
 
-## Tech Stack
+## about
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+b.tech cs student going deep into **data science & machine learning**. alongside that, i build ai-powered web apps that solve real, practical problems. i like clean, fast, professional-looking projects over bloated ones, and i'd rather ship a simple v1 than plan a perfect one forever.
 
-## Projects
+```python
+shubham = {
+    "role"       : ["b.tech cs student", "builder"],
+    "focus"      : ["data science", "machine learning"],
+    "building"   : ["ai-powered web apps", "portfolio sites", "ml experiments"],
+    "stack"      : ["python", "javascript", "react", "vite", "numpy", "pandas", "scikit-learn"],
+    "deploys_on" : ["vercel", "netlify"],
+    "philosophy" : "simple, portable and professional beats bloated.",
+}
+```
 
-### 🌾 ExamPedia
-AI-powered quiz platform for Agriculture Field Officer (AFO) exam prep. Generates fresh questions on demand using the Groq API (`llama-3.3-70b-versatile`). Built with React + Vite, deployed on Netlify.
+---
 
-### 🌐 Personal Portfolio
-A fast, clean portfolio built as a single HTML file. Plain HTML, CSS and JavaScript, no framework, deploys in seconds.
+### `$ stack.txt`
 
-[Browse all repositories →](https://github.com/shubham-nov06?tab=repositories)
+**languages & web**
 
-## Roadmap
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
 
-- [x] Build and deploy ExamPedia
-- [x] Ship a personal portfolio
-- [ ] Go deeper into ML algorithms and model evaluation
-- [ ] Build data science projects on real-world datasets
-- [ ] Contribute to open source
+**ml / data science**
 
-## Connect
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=4D77CF)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
 
-[![GitHub](https://img.shields.io/badge/GitHub-shubham--nov06-181717?style=flat-square&logo=github)](https://github.com/shubham-nov06)
+**tools & deployment**
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-0d1117?style=flat-square&logo=netlify&logoColor=00C7B7)
+
+---
+
+### `$ projects.txt`
+
+**🌾 exampedia**  
+ai-powered quiz platform for agriculture field officer (afo) exam prep. instead of a fixed question bank, it generates fresh questions on demand with llms, so aspirants always have new material to practice.  
+`react` `vite` `groq api` `llama-3.3-70b-versatile` `netlify`
+
+**🌐 personal portfolio**  
+a fast, clean portfolio built as a single html file. no framework, no build step, deploys in seconds, designed to feel hand-made, not template-made.  
+`html` `css` `javascript` `vercel`
+
+[browse all repositories →](https://github.com/shubham-nov06?tab=repositories)
+
+---
+
+### `$ roadmap.txt`
+
+- [x] build and deploy exampedia
+- [x] ship a personal portfolio
+- [ ] go deeper into ml algorithms and model evaluation
+- [ ] build data science projects on real-world datasets
+- [ ] contribute to open source
+
+---
+
+## currently
+
+- 🔭 learning data science & machine learning
+- 🛠 building ai-powered web apps
+- 🌱 working toward projects on real-world datasets
+
+---
+
+## connect
+
+- 💻 github — [github.com/shubham-nov06](https://github.com/shubham-nov06)
+<!-- add yours:
+- 🌐 website — [yoursite.com](https://yoursite.com)
+- 💼 linkedin — [linkedin.com/in/yourname](https://www.linkedin.com/in/yourname)
+-->
+
+---
+
+*powered by curiosity and a lot of chai ☕*
