@@ -1,136 +1,135 @@
-<!-- Header -->
+<!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Shubham&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Builder&descAlignY=58&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=230&section=header&text=Shubham&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Science%20%C2%B7%20Machine%20Learning%20%C2%B7%20Web%20Builder&descAlignY=58&descSize=20" alt="header" />
 </p>
 
-<!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/shubham-nov06">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=B.Tech+CS+student+%F0%9F%8E%93;Learning+Data+Science+%26+ML+%F0%9F%93%8A;Building+AI-powered+web+apps+%F0%9F%A4%96;Deploying+on+Vercel+%26+Netlify+%F0%9F%9A%80;Turning+data+into+something+useful+%E2%9C%A8" alt="typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&lines=B.Tech+CS+student+%F0%9F%8E%93;Learning+Data+Science+%26+Machine+Learning+%F0%9F%93%8A;Building+AI-powered+web+apps+%F0%9F%A4%96;Shipping+clean%2C+simple+projects+%F0%9F%9A%80" alt="typing animation" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubham-nov06&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-  <img src="https://img.shields.io/github/followers/shubham-nov06?style=flat&logo=github" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=shubham-nov06&label=Profile%20views&color=36BCF7&style=for-the-badge" alt="views" />
+  <img src="https://img.shields.io/github/followers/shubham-nov06?style=for-the-badge&logo=github&color=181717" alt="followers" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+<!-- ===================== ABOUT ===================== -->
+## 👋 About Me
 
-```python
-class Shubham:
-    def __init__(self):
-        self.role     = "B.Tech Computer Science Student"
-        self.focus    = ["Data Science", "Machine Learning"]
-        self.builds   = ["AI quiz apps", "portfolio sites", "ML experiments"]
-        self.deploys  = ["Vercel", "Netlify"]
-        self.philosophy = "Simple, portable, professional-looking > bloated"
-
-    def currently(self):
-        return "Learning ML + shipping projects 🚀"
-```
+<table>
+  <tr>
+    <td>🎓 <b>Studying</b></td>
+    <td>B.Tech in Computer Science</td>
+  </tr>
+  <tr>
+    <td>🔭 <b>Focus</b></td>
+    <td>Data Science & Machine Learning</td>
+  </tr>
+  <tr>
+    <td>🛠️ <b>Building</b></td>
+    <td>AI-powered web apps, portfolio sites, ML experiments</td>
+  </tr>
+  <tr>
+    <td>🚢 <b>Deploying on</b></td>
+    <td>Vercel & Netlify</td>
+  </tr>
+  <tr>
+    <td>⚡ <b>Philosophy</b></td>
+    <td>Simple, portable and professional-looking beats bloated</td>
+  </tr>
+</table>
 
 ---
 
+<!-- ===================== SKILLS ===================== -->
 ## 🧰 Tech Stack
 
-<details open>
-<summary><b>🐍 Languages</b> (click to collapse)</summary>
-<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,react,vite,nodejs,git,github,vercel,netlify,vscode&perline=12" alt="tech stack" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center"><b>Data Science & ML</b></p>
 
-</details>
-
-<details open>
-<summary><b>📊 Data Science & ML</b></summary>
-<br>
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🌐 Web, Tools & Deployment</b></summary>
-<br>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</details>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,mysql&perline=12" alt="data science stack" />
+</p>
 
 ---
 
+<!-- ===================== PROJECTS ===================== -->
 ## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🌾 ExamPedia</h3>
-      <p>AI-powered quiz app for <b>Agriculture Field Officer (AFO)</b> exam prep. Questions are generated live using the Groq API.</p>
+      <p>AI-powered quiz platform for <b>Agriculture Field Officer (AFO)</b> exam preparation.</p>
+      <ul>
+        <li>Generates fresh questions on demand using LLMs</li>
+        <li>Powered by the Groq API (<code>llama-3.3-70b-versatile</code>)</li>
+        <li>Deployed on Netlify with secure env variables</li>
+      </ul>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square" />
+        <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" />
         <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
       </p>
+      <!-- <a href="YOUR-LIVE-LINK">🔗 Live Demo</a> -->
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Personal Portfolio</h3>
-      <p>Clean single-file portfolio built with plain HTML, CSS and JS. Fast, portable, no framework overhead.</p>
+      <p>A fast, clean portfolio website built as a <b>single HTML file</b>.</p>
+      <ul>
+        <li>Plain HTML, CSS and JavaScript, zero framework overhead</li>
+        <li>Portable: works anywhere, deploys in seconds</li>
+        <li>Designed to feel professional, not template-made</li>
+      </ul>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
       </p>
+      <!-- <a href="YOUR-LIVE-LINK">🔗 Live Demo</a> -->
     </td>
   </tr>
 </table>
 
 <p align="center">
   <a href="https://github.com/shubham-nov06?tab=repositories">
-    <img src="https://img.shields.io/badge/See_all_repositories-→-0e75b6?style=for-the-badge" alt="all repos" />
+    <img src="https://img.shields.io/badge/Browse_all_repositories-%E2%86%92-36BCF7?style=for-the-badge" alt="repos" />
   </a>
 </p>
 
 ---
 
-## 🔥 Streak & Contributions
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=shubham-nov06&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-  </a>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubham-nov06/shubham-nov06/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubham-nov06/shubham-nov06/output/github-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/shubham-nov06/shubham-nov06/output/github-snake.svg" />
-  </picture>
-</p>
-
----
-
+<!-- ===================== ROADMAP ===================== -->
 ## 🎯 Roadmap
 
-- [x] Built & deployed ExamPedia (AI quiz app)
-- [x] Designed personal portfolio
-- [ ] Go deeper into ML algorithms & model evaluation
-- [ ] Ship more data science projects on real datasets
+- [x] Built and deployed ExamPedia (AI quiz app)
+- [x] Designed and shipped a personal portfolio
+- [ ] Go deeper into ML algorithms and model evaluation
+- [ ] Build data science projects on real-world datasets
 - [ ] Contribute to open source
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/shubham-nov06"><img src="https://img.shields.io/badge/GitHub-shubham--nov06-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <!-- Uncomment and add your links:
+  <a href="https://linkedin.com/in/YOUR-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  -->
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer" alt="footer" />
+</p>
