@@ -13,7 +13,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shubham-nov06&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
   <img src="https://img.shields.io/github/followers/shubham-nov06?style=flat&logo=github" alt="followers" />
-  <img src="https://img.shields.io/github/stars/shubham-nov06?style=flat&logo=github&label=stars" alt="stars" />
 </p>
 
 ---
@@ -89,7 +88,6 @@ class Shubham:
         <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square" />
         <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
       </p>
-      <!-- <a href="YOUR-LIVE-LINK">🔗 Live Demo</a> | <a href="YOUR-REPO-LINK">📁 Code</a> -->
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Personal Portfolio</h3>
@@ -99,7 +97,6 @@ class Shubham:
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
-      <!-- <a href="YOUR-LIVE-LINK">🔗 Live Demo</a> | <a href="YOUR-REPO-LINK">📁 Code</a> -->
     </td>
   </tr>
 </table>
@@ -112,28 +109,13 @@ class Shubham:
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 Streak & Contributions
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shubham-nov06&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-nov06&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=shubham-nov06&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-nov06&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubham-nov06&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham-nov06&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
-</p>
-
-### 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -152,35 +134,3 @@ class Shubham:
 - [ ] Go deeper into ML algorithms & model evaluation
 - [ ] Ship more data science projects on real datasets
 - [ ] Contribute to open source
-
----
-
-## 🎲 Random Fun Fact
-
-<details>
-<summary><b>Click to reveal 👀</b></summary>
-<br>
-
-I'd rather ship a simple single HTML file that works everywhere than set up a heavy stack for no reason. 😄
-
-</details>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
-</p>
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/shubham-nov06"><img src="https://img.shields.io/badge/GitHub-shubham--nov06-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <!-- Add your links, then uncomment -->
-  <!-- <a href="https://linkedin.com/in/YOUR-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
-  <!-- <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> -->
-  <!-- <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a> -->
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
-</p>
